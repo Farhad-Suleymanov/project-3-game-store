@@ -1,0 +1,488 @@
+.gameInfo {
+    background-color: #15171c;
+    padding-top: 20px;
+    min-height: 100vh;
+    transition-duration: 0.2s;
+}
+
+.gameInfo * {
+    transition-duration: 0.2s;
+    transition-property: box-shadow, color, background-color;
+}
+
+.gameInfoHeader {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #15171c;
+    top: 0;
+    height: 60px;
+    border-bottom: 0.5px solid rgb(59, 59, 59);
+    z-index: 1;
+}
+
+.gameInfoContent {
+    display: flex;
+    width: 98%;
+    justify-content: center;
+    margin: 35px auto;
+    height: 80vh;
+}
+
+.gameInfoText {
+    width: 37%;
+    justify-content: space-between;
+    margin-top: 27px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    background-color: #172434;
+    padding: 10px;
+    height: max-content;
+}
+
+.gameDescription {
+    font-size: 16px;
+    letter-spacing: 1px;
+    padding: 10px;
+    background-color: #0e151d;
+    border-radius: 10px;
+    color: rgb(239, 234, 234);
+}
+
+.gameReleaseDate,
+.gameInfoRating,
+.gameInfoPlatforms,
+.gameGenres {
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #0e151d;
+    border-radius: 10px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.gameRequirements {
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #0e151d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.gameRequirements h2 {
+    color: rgb(239, 234, 234);
+    font-size: 18px;
+}
+
+.gameRequirements ul {
+    margin-left: -20px;
+}
+
+.gameRequirements li {
+    list-style-type: none;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.gameRequirements strong {
+    font-size: 15px;
+    color: #6a98e4;
+    margin-right: 10px;
+}
+
+time,
+.gameInfoPlatforms i {
+    color: #69aceb;
+    font-size: 16px;
+}
+
+.gameInfoRating span {
+    color: rgb(223, 170, 100);
+}
+
+.gameGenres span {
+    display: grid;
+    place-items: center;
+    min-width: max-content;
+    min-height: 30px;
+    padding: 4px 12px;
+    color: #60a5fa;
+    font-size: 13px;
+    background-color: #172434;
+    border: 1px solid rgba(96, 165, 250, 0.25);
+    border-radius: 20px;
+}
+
+.gameInfoPlatforms i {
+    display: grid;
+    width: 35px;
+    height: 35px;
+    place-items: center;
+    color: #60a5fa;
+    font-size: 18px;
+    background-color: #172434;
+    border: 1px solid rgba(96, 165, 250, 0.25);
+    border-radius: 50%;
+}
+
+.gameInfoGallery {
+    width: 63%;
+    max-width: 1400px;
+    padding: 25px;
+}
+
+.gameInfoPrice {
+    margin: 0 auto;
+    width: 150px;
+    height: 30px;
+    color: white;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    background: linear-gradient(135deg,
+            #4ade80 0%,
+            #22c55e 45%,
+            #15803d 100%);
+    text-shadow: 1px 1px 2px black;
+    cursor: pointer;
+}
+
+
+
+.gameInfoLargeImage {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: #0e151d;
+    margin-bottom: 15px;
+}
+
+.gameInfoLargeImage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gameInfoSmallImages {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+}
+
+.gameInfoSmallImage {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    padding: 0;
+    border: 3px solid transparent;
+    border-radius: 8px;
+    background-color: #0e151d;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.gameInfoSmallImage img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.gameInfoSmallImage:hover,
+.gameInfoSmallImageActive {
+    border-color: #1a9fff;
+}
+
+.gameInfoProgress {
+    width: 100%;
+    height: 6px;
+    overflow: hidden;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: #4b5563;
+}
+
+.gameInfoProgressFill {
+    width: 0;
+    height: 100%;
+    border-radius: 10px;
+    background-color: #1a9fff;
+}
+
+.gameInfoProgressActive {
+    animation: fillGameInfoProgress 3s linear forwards;
+}
+
+@keyframes fillGameInfoProgress {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+/* Light mode */
+
+.gameInfoLight {
+    background-color: #f3f4f6;
+}
+
+.gameInfoLight .supportHeader {
+    background-color: #f3f4f6;
+    border-bottom: 0.5px solid gray;
+}
+
+.gameInfoLight i {
+    color: #1F2937;
+}
+
+.gameInfoLight .supportHomeButton {
+    color: #1F2937;
+}
+
+.gameInfoLight .supportHeaderTitle {
+    color: #1F2937;
+}
+
+.gameInfoLight .supportHeaderTitle i {
+    color: #1F2937;
+}
+
+.gameInfoLight .supportHomeButton:hover {
+    color: #177bba;
+}
+
+.gameInfoLight .supportHomeButton:hover i {
+    color: #177bba;
+}
+
+
+.gameInfoLight .gameInfoLargeImage,
+.gameInfoLight .gameInfoSmallImage {
+    background-color: #e5e7eb;
+}
+
+.gameInfoLight .gameInfoSmallImage:hover,
+.gameInfoLight .gameInfoSmallImageActive {
+    border-color: #2563eb;
+}
+
+.gameInfoLight .gameInfoProgress {
+    background-color: #cbd5e1;
+}
+
+.gameInfoLight .gameInfoProgressFill {
+    background-color: #2563eb;
+}
+
+.gameInfoLight p,
+.gameInfoLight span,
+.gameInfoLight time,
+.gameInfoLight li,
+.gameInfoLight strong,
+.gameInfoLight h2 {
+    color: #15171c;
+}
+
+.gameInfoLight .gameInfoText {
+    color: #1f2937;
+    background-color: #ffffff;
+    box-shadow: 0 12px 30px rgba(30, 41, 59, 0.12);
+}
+
+.gameInfoLight .gameInfoText .gameDescription {
+    color: #475569;
+    background-color: #edf0f4;
+    box-shadow: 0 3px 10px rgba(30, 41, 59, 0.07);
+}
+
+.gameInfoLight .gameInfoText .gameReleaseDate,
+.gameInfoLight .gameInfoText .gameInfoRating,
+.gameInfoLight .gameInfoText .gameInfoPlatforms,
+.gameInfoLight .gameInfoText .gameGenres,
+.gameInfoLight .gameInfoText .gameRequirements {
+    color: #334155;
+    background-color: #edf0f4;
+    box-shadow: 0 3px 10px rgba(30, 41, 59, 0.07);
+}
+
+.gameInfoLight .gameInfoText .gameReleaseDate time {
+    color: #2563eb;
+}
+
+.gameInfoLight .gameInfoText .gameInfoRating span {
+    color: rgb(170, 128, 74);
+}
+
+.gameInfoLight .gameInfoText .gameInfoPlatforms span {
+    color: #334155;
+}
+
+.gameInfoLight .gameInfoText .gameInfoPlatforms i {
+    color: #2563eb;
+    background-color: #dbeafe;
+    box-shadow: 0 3px 9px rgba(37, 99, 235, 0.15);
+}
+
+.gameInfoLight .gameInfoText .gameGenres {
+    color: #334155;
+}
+
+.gameInfoLight .gameInfoText .gameGenres span {
+    color: #1d4ed8;
+    background-color: #dbeafe;
+    box-shadow: 0 3px 9px rgba(37, 99, 235, 0.12);
+}
+
+.gameInfoLight .gameInfoText .gameRequirements h2 {
+    color: #172033;
+}
+
+.gameInfoLight .gameInfoText .gameRequirements li {
+    color: #475569;
+}
+
+.gameInfoLight .gameInfoText .gameRequirements strong {
+    color: #2563eb;
+}
+
+.gameInfoLight .gameInfoText .gameRequirements p {
+    color: #475569;
+}
+
+.gameInfoLight .gameInfoText .gameInfoPrice {
+    color: #ffffff;
+    background-color: #22c55e;
+    box-shadow: 0 8px 20px rgba(34, 197, 94, 0.25);
+}
+@media (min-width:1720px){
+    .gameInfoText{
+        min-height: 81.5vh;
+    }
+    .gameInfoContent *,.gameInfoContent strong, .gameInfoContent h2{
+        font-size: 22px;
+    }
+    .gameInfoContent li{
+        font-size: 20px;
+    }
+    .gameInfoPrice{
+        font-size: 18.5px;
+    }
+}
+@media (min-width:1620px) and (max-width:1719px){
+    .gameInfoText{
+        min-height: 81.5vh;
+    }
+    .gameInfoContent *,.gameInfoContent strong, .gameInfoContent h2{
+        font-size: 18px;
+    }
+    .gameInfoContent li{
+        font-size: 16px;
+    }
+    .gameInfoPrice{
+        font-size: 18px;
+    }
+}
+@media (max-width: 1450px) {
+    .gameInfoContent {
+        width: min(94%, 1350px);
+        height: auto;
+        margin: 55px auto 35px;
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .gameInfoGallery,
+    .gameInfoText {
+        width: 100%;
+        max-width: none;
+        box-sizing: border-box;
+    }
+    .gameInfoGallery {
+        padding: 15px;
+    }
+
+    .gameInfoText {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+        height: auto;
+        margin-top: 15px;
+        box-sizing: border-box;
+    }
+
+    .gameInfoText>* {
+        box-sizing: border-box;
+        margin: 0;
+    }
+
+    .gameDescription,
+    .gameRequirements,
+    .gameInfoPrice {
+        grid-column: 1 / -1;
+    }
+
+    .gameInfoPrice {
+        justify-self: center;
+    }
+
+    .gameInfoSmallImage {
+        min-width: 0;
+    }
+}
+
+@media (max-width: 650px) {
+    .gameInfoContent {
+        width: 96%;
+        margin-top: 50px;
+    }
+
+    .gameInfoText {
+        grid-template-columns: 1fr;
+        padding: 8px;
+    }
+
+    .gameDescription,
+    .gameReleaseDate,
+    .gameInfoRating,
+    .gameInfoPlatforms,
+    .gameGenres,
+    .gameRequirements,
+    .gameInfoPrice {
+        grid-column: 1;
+    }
+
+    .gameInfoGallery {
+        padding: 8px;
+    }
+
+    .gameInfoSmallImages {
+        overflow-x: auto;
+    }
+
+    .gameInfoSmallImage {
+        flex: 0 0 130px;
+    }
+
+    .gameRequirements ul {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .gameInfoPrice {
+        width: 100%;
+    }
+}

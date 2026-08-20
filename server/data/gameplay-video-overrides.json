@@ -1,0 +1,523 @@
+{
+  "source": "YouTube title-matched gameplay videos",
+  "retrieved_at": "2026-08-17",
+  "purpose": "Static fallback frames only for catalog games with fewer than three IGDB screenshots",
+  "games": {
+    "a-train": {
+      "video_id": "vEn9_anNZkI",
+      "title": "A-Train gameplay (PC Game, 1990)",
+      "search_query": "\"A-Train\" video game gameplay 1990",
+      "match_score": 23
+    },
+    "arma-3-contact": {
+      "video_id": "75lx1DmXh_o",
+      "title": "ARMA 3 CONTACT  - Official Gameplay Walkthrough 2019",
+      "search_query": "\"Arma 3: Contact\" video game gameplay 2019",
+      "match_score": 23
+    },
+    "arma-x-anniversary-edition": {
+      "video_id": "OSGCQxz4PFM",
+      "title": "Arma 2 Combined Operations Gameplay",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "assassins-creed-iii-deluxe-edition": {
+      "video_id": "A6Rp81CWnZs",
+      "title": "Assassin's Creed 3 deluxe edition | Gameplay Live",
+      "search_query": "\"Assassin's Creed III: Deluxe Edition\" video game gameplay 2012",
+      "match_score": 12
+    },
+    "banana-prince": {
+      "video_id": "S9DIwWUVrhM",
+      "title": "Banana Prince (1991) Gameplay Walkthrough FULL GAME [NES]",
+      "search_query": "\"Banana Prince\" video game gameplay 1991",
+      "match_score": 23
+    },
+    "battlezone-2-combat-commander": {
+      "video_id": "sU2hHdxF90k",
+      "title": "Devils in the Dust - Fleshstorm 1 - Battlezone 2: Combat Commander",
+      "search_query": "\"Battlezone 2: Combat Commander\" video game gameplay 2000",
+      "match_score": 18
+    },
+    "captain-tsubasa-vol-ii-super-striker": {
+      "video_id": "XvOmFBTFT1w",
+      "title": "NES Longplay [579] Captain Tsubasa Vol.II: Super Striker (Fan Translation)",
+      "search_query": "\"Captain Tsubasa Vol. II: Super Striker\" video game gameplay 1990",
+      "match_score": 22
+    },
+    "championship-manager-4": {
+      "video_id": "l13-AirbHhI",
+      "title": "Championship Manager 4 - PC [Longplay]",
+      "search_query": "\"Championship Manager 4\" video game gameplay 2003",
+      "match_score": 22
+    },
+    "championship-manager-season-02-03": {
+      "video_id": "LB2PZuVGs8c",
+      "title": "Championship Manager   Season 02 03 Xbox Intro and Gameplay",
+      "search_query": "\"Championship Manager: Season 02/03\" video game gameplay 2002",
+      "match_score": 22
+    },
+    "championship-manager-season-99-slash-00": {
+      "video_id": "hswlAhqnQNM",
+      "title": "Championship Manager: Season 99/00  gameplay (PC Game, 1999)",
+      "search_query": "\"Championship Manager: Season 99/00\" video game gameplay 1999",
+      "match_score": 23
+    },
+    "command-and-conquer-remastered-collection": {
+      "video_id": "6yFjW5YoYkA",
+      "title": "Command & Conquer Remastered Collection Gameplay (PC HD) [1080p60FPS]",
+      "search_query": "\"Command & Conquer Remastered Collection\" video game gameplay 2020",
+      "match_score": 22
+    },
+    "culdcept": {
+      "video_id": "fyiSzvxN69I",
+      "title": "Side Let's Play: Culdcept (PS2) - Part 1",
+      "search_query": "\"Culdcept\" video game gameplay 2003",
+      "match_score": 22
+    },
+    "dance-dance-revolution-ultramix-2": {
+      "video_id": "ux3eva6MU7g",
+      "title": "Dance Dance Revolution Ultramix 2 Xbox Gameplay - Start",
+      "search_query": "\"Dance Dance Revolution Ultramix 2\" video game gameplay 2004",
+      "match_score": 22
+    },
+    "dark-age-of-camelot-shrouded-isles": {
+      "video_id": "2sP-7spHvyQ",
+      "title": "Dark Age of Camelot: Shrouded Isles PC Games Gameplay -",
+      "search_query": "\"Dark Age of Camelot: Shrouded Isles\" video game gameplay 2002",
+      "match_score": 22
+    },
+    "dark-souls-iii-the-fire-fades-edition": {
+      "video_id": "kyX3_e8F_1o",
+      "title": "Dark Souls III: The Fire Fades Edition PS5 Slim (Walkthrough No Commentary) - Part 1",
+      "search_query": "\"Dark Souls III: The Fire Fades Edition\" video game gameplay 2017",
+      "match_score": 22
+    },
+    "dave-the-diver-in-the-jungle": {
+      "video_id": "gDBV358_yS4",
+      "title": "DAVE THE DIVER in The Jungle DLC - 100% Gameplay Walkthrough FULL GAME [PS5 PRO 4K]",
+      "search_query": "\"Dave the Diver: In the Jungle\" video game gameplay 2026",
+      "match_score": 22
+    },
+    "dcs-world-a-10c-warthog": {
+      "video_id": "z0mmaqMOCwY",
+      "title": "Let's Play DCS World A-10C Warthog - Start up and disabling the Master Caution",
+      "search_query": "\"DCS World: A-10C Warthog\" video game gameplay 2011",
+      "match_score": 22
+    },
+    "deathrow": {
+      "video_id": "-NKzW8fgSdI",
+      "title": "Deathrow: Underground Team Combat Xbox Gameplay_2002_07_25",
+      "search_query": "\"Deathrow\" video game gameplay 2002",
+      "match_score": 23
+    },
+    "divinity-ii-the-dragon-knight-saga": {
+      "video_id": "uvsENEyKgv0",
+      "title": "Divinity II : The Dragon Knight Saga PC Gameplay HD (Steam) GTX480",
+      "search_query": "\"Divinity II: The Dragon Knight Saga\" video game gameplay 2010",
+      "match_score": 22
+    },
+    "djmax-respect": {
+      "video_id": "ZDKtykyzq50",
+      "title": "DJMAX Respect - Guilty Gear DLC + Arcade Gameplay Livestream - #06 (01-12-2017)",
+      "search_query": "\"DJMax Respect\" video game gameplay 2017",
+      "match_score": 23
+    },
+    "doctor-who-the-lonely-assassins": {
+      "video_id": "pFQrC12gw3E",
+      "title": "DOCTOR WHO THE LONELY ASSASSINS Full Game Walkthrough - No Commmentary (Doctor Who TLA Full Game)",
+      "search_query": "\"Doctor Who: The Lonely Assassins\" video game gameplay 2021",
+      "match_score": 22
+    },
+    "droplitz": {
+      "video_id": "BhurayqUhRE",
+      "title": "Droplitz PlayStation 3 Gameplay - Chain Reaction",
+      "search_query": "\"Droplitz\" video game gameplay 2009",
+      "match_score": 19
+    },
+    "dust-a-tale-of-the-wired-west": {
+      "video_id": "aQCEL6rfI08",
+      "title": "Dust a Tale of the Wired West Part 3 - HD 1080p",
+      "search_query": "\"Dust: A Tale of the Wired West\" video game gameplay 1993",
+      "match_score": 18
+    },
+    "elvira-mistress-of-the-dark": {
+      "video_id": "h4x9f2vMK7w",
+      "title": "Elvira: Mistress Of The Dark  gameplay (PC Game, 1990)",
+      "search_query": "\"Elvira: Mistress of the Dark\" video game gameplay 1990",
+      "match_score": 23
+    },
+    "enigma-rising-tide": {
+      "video_id": "_5v1TxaWJEo",
+      "title": "Enigma Rising Tide - Test | PC Games 09/2003 Heft-DVD",
+      "search_query": "\"Enigma: Rising Tide\" video game gameplay 2003",
+      "match_score": 19
+    },
+    "esper-the-collection": {
+      "video_id": "der1Dekrv4s",
+      "title": "I Got The Power | Esper: The Collection | Oculus Rift",
+      "search_query": "\"Esper: The Collection\" video game gameplay 2016",
+      "match_score": 18
+    },
+    "everquest-evolution": {
+      "video_id": "n7jVkxjjK-k",
+      "title": "LET'S PLAY EVERQUEST - Dulak's Harbor - Legacy of Ykesha",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "eye-of-the-beholder-ii-the-legend-of-darkmoon": {
+      "video_id": "EiEpnQFwI6Y",
+      "title": "Eye of the Beholder II: The Legend of Darkmoon (PC/DOS) \"Longplay\" 1991, SSI, Westwood",
+      "search_query": "\"Eye of the Beholder II: The Legend of Darkmoon\" video game gameplay 1991",
+      "match_score": 23
+    },
+    "full-throttle": {
+      "video_id": "R0caHaL8l0w",
+      "title": "Full Throttle (1995) PC Complete Playthrough - NintendoComplete",
+      "search_query": "\"Full Throttle\" video game gameplay 1995",
+      "match_score": 23
+    },
+    "heaven-and-hell": {
+      "video_id": "-KGMoT6a7NE",
+      "title": "Heaven & Hell | PC Indie Gameplay",
+      "search_query": "\"Heaven & Hell\" video game gameplay 2003",
+      "match_score": 22
+    },
+    "hide-the-corpse": {
+      "video_id": "SBzOtozw2AI",
+      "title": "Hide The Corpse | Full Game Walkthrough | No Commentary",
+      "search_query": "\"Hide The Corpse\" video game gameplay 2024",
+      "match_score": 22
+    },
+    "hunt-the-wumpus": {
+      "video_id": "1QwiumK8K5U",
+      "title": "Hunt The Wumpus (1973) Gameplay",
+      "search_query": "\"Hunt the Wumpus\" video game gameplay 1973",
+      "match_score": 23
+    },
+    "indiana-jones-and-the-great-circle-the-order-of-giants": {
+      "video_id": "4EZGWzzZdIg",
+      "title": "INDIANA JONES AND THE GREAT CIRCLE The Order Of Giants DLC Gameplay Walkthrough FULL GAME [4K 60FPS]",
+      "search_query": "\"Indiana Jones and the Great Circle: The Order of Giants\" video game gameplay 2025",
+      "match_score": 22
+    },
+    "jetpac": {
+      "video_id": "gT2KFXtg4nU",
+      "title": "Jetpac 4K Walkthrough, 1983, ZX Spectrum 16K, RZX Archive",
+      "search_query": "\"Jetpac\" video game gameplay 1983",
+      "match_score": 23
+    },
+    "kingdom-hearts-integrum-masterpiece": {
+      "video_id": "dqzc2p_0h0s",
+      "title": "Kingdom Hearts Integrum Masterpiece - Kingdom Hearts Final Mix HD STEAM GAMEPLAY Pudding WALKTHROUGH",
+      "search_query": "\"Kingdom Hearts Integrum Masterpiece\" video game gameplay 2024",
+      "match_score": 22
+    },
+    "kingdom-two-crowns-norse-lands": {
+      "video_id": "BjVawsZTiss",
+      "title": "KINGDOM TWO CROWNS NORSE LANDS PLAYTHROUGH",
+      "search_query": "\"Kingdom Two Crowns: Norse Lands\" video game gameplay 2021",
+      "match_score": 22
+    },
+    "leisure-suit-larry-wet-dreams-dry-twice": {
+      "video_id": "ItcaVpaUR3Q",
+      "title": "Leisure Suit Larry - Wet Dreams Dry Twice | Complete Gameplay Walkthrough - Full Game No Commentary",
+      "search_query": "\"Leisure Suit Larry: Wet Dreams Dry Twice\" video game gameplay 2020",
+      "match_score": 22
+    },
+    "lies-of-p-overture": {
+      "video_id": "ijmvup9RcF8",
+      "title": "Lies of P: Overture Gameplay Walkthrough",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "lords-of-time": {
+      "video_id": "OnJEiSS1o1Q",
+      "title": "Lords of Time (longplay) for the BBC Micro",
+      "search_query": "\"Lords of Time\" video game gameplay 1983",
+      "match_score": 22
+    },
+    "lumines-live": {
+      "video_id": "-XwSxzEJ1mc",
+      "title": "Lumines Live! – XBOX 360 (2006) Gameplay",
+      "search_query": "\"Lumines Live!\" video game gameplay 2006",
+      "match_score": 23
+    },
+    "mercury-meltdown": {
+      "video_id": "CsDPJsr8vqU",
+      "title": "Playstation Portable (PSP) : Mercury Meltdown - 2006 #shorts #gameplayvideo",
+      "search_query": "\"Mercury Meltdown\" video game gameplay 2006",
+      "match_score": 23
+    },
+    "mickeys-space-adventure": {
+      "video_id": "Kzbrnse0W1E",
+      "title": "Mickey's Space Adventure gameplay (PC Game, 1984)",
+      "search_query": "\"Mickey's Space Adventure\" video game gameplay 1984",
+      "match_score": 23
+    },
+    "mighty-switch-force-collection": {
+      "video_id": "7azr7lqqh7U",
+      "title": "Mighty Switch Force! Collection PS4 Gameplay",
+      "search_query": "\"Mighty Switch Force! Collection\" video game gameplay 2019",
+      "match_score": 22
+    },
+    "mlb-06-the-show": {
+      "video_id": "Lw21wpKHGEM",
+      "title": "MLB 06: The Show -- Gameplay (PS2)",
+      "search_query": "\"MLB 06: The Show\" video game gameplay 2006",
+      "match_score": 22
+    },
+    "mlb-power-pros-2008": {
+      "video_id": "bLO0O1Y8SL0",
+      "title": "MLB Power Pros 2008 PS2 Intro + Gameplay [No Commentary]",
+      "search_query": "\"MLB Power Pros 2008\" video game gameplay 2008",
+      "match_score": 23
+    },
+    "moto-gp-ultimate-racing-technology": {
+      "video_id": "OriMqQ8P04c",
+      "title": "MotoGP: Ultimate Racing Technology (2002) Gameplay",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "motor-city-online": {
+      "video_id": "z_heBvahxyI",
+      "title": "NFS Motor City Online (2001) - PC Gameplay",
+      "search_query": "\"Motor City Online\" video game gameplay 2001",
+      "match_score": 23
+    },
+    "moving-out-movers-in-paradise": {
+      "video_id": "YVXzRw7i3iQ",
+      "title": "Moving Out Movers in Paradise Gameplay - PC [Gaming Trend]",
+      "search_query": "\"Moving Out: Movers in Paradise\" video game gameplay 2021",
+      "match_score": 22
+    },
+    "mvp-baseball-2005": {
+      "video_id": "QALpRK_ismc",
+      "title": "MVP Baseball 2005 | PC Gameplay HD | Atlanta Braves vs. Houston Astros",
+      "search_query": "\"MVP Baseball 2005\" video game gameplay 2005",
+      "match_score": 23
+    },
+    "nascar-racing-2002-season": {
+      "video_id": "sfF4VhWK2aI",
+      "title": "nascar racing 2002 season gameplay",
+      "search_query": "\"NASCAR Racing 2002 Season\" video game gameplay 2002",
+      "match_score": 23
+    },
+    "nba-in-the-zone-2": {
+      "video_id": "grmyZluKejU",
+      "title": "NBA In The Zone 2 (1996) - Gameplay",
+      "search_query": "\"NBA In the Zone 2\" video game gameplay 1996",
+      "match_score": 23
+    },
+    "nba-shootout-97": {
+      "video_id": "qNMlyevBruo",
+      "title": "NBA ShootOut '97 (USA 1997 ) - PS1 - Gameplay - No Commentary - Kinhank Hyperspin 12TBHDD",
+      "search_query": "\"NBA ShootOut '97\" video game gameplay 1997",
+      "match_score": 23
+    },
+    "need-for-speed-hot-pursuit-limited-edition": {
+      "video_id": "lArAulY75GM",
+      "title": "Need for Speed Hot Pursuit Limited Edition Gameplay",
+      "search_query": "\"Need for Speed: Hot Pursuit - Limited Edition\" video game gameplay 2010",
+      "match_score": 22
+    },
+    "out-of-the-park-baseball-15": {
+      "video_id": "Zbn16LhaEMk",
+      "title": "Out of the Park Baseball 15 PC Gameplay FullHD 1080p",
+      "search_query": "\"Out of the Park Baseball 15\" video game gameplay 2014",
+      "match_score": 22
+    },
+    "out-of-the-park-baseball-16": {
+      "video_id": "RniCsTL8k0Y",
+      "title": "Out of the Park Baseball 16 gameplay HD - Baseball Manager [PC - 1080p]",
+      "search_query": "\"Out of the Park Baseball 16\" video game gameplay 2015",
+      "match_score": 22
+    },
+    "outrun-2": {
+      "video_id": "TfOX39URYEQ",
+      "title": "Don't forget the Classics! - OutRun 2 (2003) - Original Xbox - Gameplay",
+      "search_query": "\"OutRun 2\" video game gameplay 2003",
+      "match_score": 23
+    },
+    "oxenfree-directors-cut": {
+      "video_id": "PsKnI_qDif8",
+      "title": "Oxenfree • FULL Playthrough Walkthrough Let's Play",
+      "search_query": "\"Oxenfree: Director's Cut\" video game gameplay 2016",
+      "match_score": 9
+    },
+    "path-of-exile-the-fall-of-oriath": {
+      "video_id": "bUsZ-tUb5Zk",
+      "title": "Let's Play Path of Exile: The Fall Of Oriath - PC Gameplay Part 1 - I Have No Idea What I'm Doing!",
+      "search_query": "\"Path of Exile: The Fall of Oriath\" video game gameplay 2017",
+      "match_score": 22
+    },
+    "puzzling-places-3d-jigsaw-sim": {
+      "video_id": "5L8FeK2GDD8",
+      "title": "Phenexa - Puzzling Places - 3D Jigsaw Sim (Gameplay & First Impressions)",
+      "search_query": "\"Puzzling Places: 3D Jigsaw Sim\" video game gameplay 2026",
+      "match_score": 22
+    },
+    "pyramid-of-doom": {
+      "video_id": "BMGJQdgpk0M",
+      "title": "Pyramid of Doom - (1979) - TRS-80 - WIN!",
+      "search_query": "\"Pyramid of Doom\" video game gameplay 1979",
+      "match_score": 19
+    },
+    "ride-6": {
+      "video_id": "cfea_QczKXw",
+      "title": "Ride 6 | BAGGER Racing at Valencia 🏍️🔥 | Full Race Gameplay | No Commentary",
+      "search_query": "\"Ride 6\" video game gameplay 2026",
+      "match_score": 22
+    },
+    "screamer-4x4": {
+      "video_id": "WPXYkxcCqp0",
+      "title": "Screamer 4x4 (2000) - PC Gameplay 4k 2160p / Win 10",
+      "search_query": "\"Screamer 4x4\" video game gameplay 2000",
+      "match_score": 23
+    },
+    "shantae-half-genie-hero-ultimate-edition": {
+      "video_id": "K9rWqq4v0sw",
+      "title": "Shantae Half-Genie Hero Ultimate Edition - Gameplay Footage",
+      "search_query": "\"Shantae: Half-Genie Hero - Ultimate Edition\" video game gameplay 2018",
+      "match_score": 22
+    },
+    "silent-thunder-a-10-tank-killer-ii": {
+      "video_id": "Z36cvDcxaE8",
+      "title": "Sierra's Silent Thunder: A-10 Tank Killer II - Gameplay - Columbia - Mission 2: Jungle Strike",
+      "search_query": "\"Silent Thunder: A-10 Tank Killer II\" video game gameplay 1996",
+      "match_score": 22
+    },
+    "star-trek--1": {
+      "video_id": "81i0zNOXmBw",
+      "title": "Let's Play All Video Games: Star Trek (HP 2000) [1971] - Episode #14",
+      "search_query": "\"Star Trek\" video game gameplay 1971",
+      "match_score": 23
+    },
+    "star-trek-deep-space-nine-the-fallen": {
+      "video_id": "59sKOMBIhZ4",
+      "title": "Star Trek Deep Space Nine: The Fallen (2000) Worf Longplay",
+      "search_query": "\"Star Trek: Deep Space Nine - The Fallen\" video game gameplay 2000",
+      "match_score": 23
+    },
+    "stardew-valley-collectors-edition": {
+      "video_id": "NjvFF2Kvx1U",
+      "title": "Stardew Valley gameplay - Full spring Year 1",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "starquake": {
+      "video_id": "yx6WoFc4w3c",
+      "title": "STARQUAKE (1985) Walkthrough, ZX Spectrum",
+      "search_query": "\"Starquake\" video game gameplay 1985",
+      "match_score": 23
+    },
+    "super-meat-boy-ultra-edition": {
+      "video_id": "0uuV6AODS4A",
+      "title": "Super Meat Boy - Complete Walkthrough",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "the-legend-of-heroes-trails-to-azure": {
+      "video_id": "TvLKQW7g0Bs",
+      "title": "#20 [Ao no Kiseki] The Legend of Heroes: Trails to Azure playthrough",
+      "search_query": "\"The Legend of Heroes: Trails to Azure\" video game gameplay 2020",
+      "match_score": 22
+    },
+    "the-new-adventures-of-the-time-machine": {
+      "video_id": "N95XgbDgqmg",
+      "title": "Let's Play The New Adventures of the Time Machine - Khronos",
+      "search_query": "\"The New Adventures of the Time Machine\" video game gameplay 2000",
+      "match_score": 22
+    },
+    "the-tomb-raider-trilogy": {
+      "video_id": "0b_WPv66G-A",
+      "title": "The Tomb Raider Trilogy PS3 gameplay",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "theocracy": {
+      "video_id": "r7-Hs_gEy08",
+      "title": "Theocracy Retro Gameplay",
+      "search_query": "\"Theocracy\" video game gameplay 2000",
+      "match_score": 22
+    },
+    "through-the-looking-glass": {
+      "video_id": "GlXZq2PeqVM",
+      "title": "Apple Macintosh Longplay - Through the Looking Glass [aka Alice] (1984) Apple",
+      "search_query": "\"Through the Looking Glass\" video game gameplay 1984",
+      "match_score": 23
+    },
+    "tom-clancys-ghost-recon-breakpoint-red-patriot": {
+      "video_id": "6EVS9yIfbY0",
+      "title": "Ghost Recon Breakpoint: Red Patriot gameplay walkthrough",
+      "search_query": "manual gameplay match",
+      "match_score": 100
+    },
+    "train-sim-world-2": {
+      "video_id": "mpjk1fX1zj8",
+      "title": "Train Sim World 2 Gameplay (PS4 HD)",
+      "search_query": "\"Train Sim World 2\" video game gameplay 2020",
+      "match_score": 22
+    },
+    "triple-play-97": {
+      "video_id": "Jjpk9zt067M",
+      "title": "Triple Play 97 (PlayStation) Gameplay Sample #1 (EA Sports, 1996)",
+      "search_query": "\"Triple Play 97\" video game gameplay 1996",
+      "match_score": 23
+    },
+    "triple-play-98": {
+      "video_id": "k-kvdbEssBQ",
+      "title": "Triple Play 98 -- Gameplay (PS1)",
+      "search_query": "\"Triple Play 98\" video game gameplay 1997",
+      "match_score": 22
+    },
+    "truxton-extreme": {
+      "video_id": "uMAPHJzBGdc",
+      "title": "Truxton Extreme - NEW 2026 Shmup Ends a 38-Year Wait | PC Gameplay & Commentary",
+      "search_query": "\"Truxton Extreme\" video game gameplay 2026",
+      "match_score": 23
+    },
+    "two-point-museum-arty-facts": {
+      "video_id": "N8plim6-t7Q",
+      "title": "Phenexa - Two Point Museum: Arty-Facts | 4 & 5 Stars | First Look, Gameplay & Impressions",
+      "search_query": "\"Two Point Museum: Arty-Facts\" video game gameplay 2026",
+      "match_score": 22
+    },
+    "umineko-no-naku-koro-ni": {
+      "video_id": "R1TvtUn5UVw",
+      "title": "[UMINEKO NO NAKU KORO NI] Gameplay 1",
+      "search_query": "\"Umineko no Naku Koro ni\" video game gameplay 2010",
+      "match_score": 22
+    },
+    "unicorn-overlord-collectors-edition": {
+      "video_id": "W6IpSgAMIAU",
+      "title": "Unicorn Overlord Collector's Edition Gameplay 🦄 PS5 - Awesome SRPG",
+      "search_query": "\"Unicorn Overlord: Collector's Edition\" video game gameplay 2024",
+      "match_score": 22
+    },
+    "vandal-hearts": {
+      "video_id": "ACGZFQprD-A",
+      "title": "Vandal Hearts (1996) Rolling Gameplay Demo - Sony PlayStation 1 (PS1 PAL) 4K Upscale (Attract Mode)",
+      "search_query": "\"Vandal Hearts\" video game gameplay 1996",
+      "match_score": 23
+    },
+    "virtua-tennis-world-tour": {
+      "video_id": "NXs5t9MXO3E",
+      "title": "Virtua Tennis: World Tour Gameplay Tournament (PSP)",
+      "search_query": "\"Virtua Tennis: World Tour\" video game gameplay 2005",
+      "match_score": 22
+    },
+    "warhawk-operation-fallen-star": {
+      "video_id": "S_VcS7XDRIs",
+      "title": "Warhawk Operation Fallen Star Gameplay",
+      "search_query": "\"Warhawk: Operation Fallen Star\" video game gameplay 2008",
+      "match_score": 22
+    },
+    "wizardry-bane-of-the-cosmic-forge": {
+      "video_id": "wxAXF-HJm_g",
+      "title": "AMIGA Wizardry VI Bane of the Cosmic Forge PART 1 OCS HELP NEEDS LONGPLAY 1990SIR TECH SoftcrSKR",
+      "search_query": "\"Wizardry: Bane of the Cosmic Forge\" video game gameplay 1990",
+      "match_score": 15
+    }
+  }
+}

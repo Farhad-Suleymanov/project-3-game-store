@@ -1,0 +1,173 @@
+{
+  "schema_version": 2,
+  "snapshot_date": "2026-08-19",
+  "estimate_note": "Steam-style catalog estimate based on release era, genres, themes, publisher scale, and PC availability; check the official store page before purchase.",
+  "not_applicable_note": "No Windows PC release is listed for this game, so PC system requirements are not applicable.",
+  "profiles": [
+    {
+      "id": "legacy",
+      "os_options": ["Windows XP SP3", "Windows 7"],
+      "cpu_options": ["1 GHz single-core processor", "Intel Pentium III 1.0 GHz or AMD Athlon equivalent"],
+      "gpu_options": ["DirectX 9-compatible GPU with 128 MB VRAM", "NVIDIA GeForce 4-class or ATI Radeon 9000-class GPU"],
+      "ram_options": ["512 MB RAM", "1 GB RAM"],
+      "storage_options": ["1 GB available space", "2 GB available space", "3 GB available space"],
+      "directx": "DirectX 9.0c"
+    },
+    {
+      "id": "early-2000s",
+      "os_options": ["Windows XP SP3", "Windows Vista"],
+      "cpu_options": ["Intel Pentium 4 2.0 GHz or AMD Athlon XP 2000+", "2.0 GHz single-core processor"],
+      "gpu_options": ["NVIDIA GeForce 6600 or ATI Radeon X1300 with 256 MB VRAM", "DirectX 9-compatible GPU with 256 MB VRAM"],
+      "ram_options": ["1 GB RAM", "2 GB RAM"],
+      "storage_options": ["3 GB available space", "5 GB available space", "8 GB available space"],
+      "directx": "DirectX 9.0c"
+    },
+    {
+      "id": "late-2000s",
+      "os_options": ["Windows Vista SP2", "Windows 7"],
+      "cpu_options": ["Intel Core 2 Duo E6600 or AMD Athlon 64 X2 6000+", "2.4 GHz dual-core processor"],
+      "gpu_options": ["NVIDIA GeForce 8800 GT or AMD Radeon HD 3870 with 512 MB VRAM", "DirectX 10-compatible GPU with 512 MB VRAM"],
+      "ram_options": ["2 GB RAM", "4 GB RAM"],
+      "storage_options": ["8 GB available space", "12 GB available space", "15 GB available space", "20 GB available space"],
+      "directx": "DirectX 10"
+    },
+    {
+      "id": "early-2010s",
+      "os_options": ["Windows 7 64-bit", "Windows 8.1 64-bit"],
+      "cpu_options": ["Intel Core i3-2100 or AMD Phenom II X4 965", "Intel Core i5-2500 or AMD FX-6300"],
+      "gpu_options": ["NVIDIA GeForce GTX 460 or AMD Radeon HD 5770 with 1 GB VRAM", "NVIDIA GeForce GTX 650 or AMD Radeon HD 7750"],
+      "ram_options": ["4 GB RAM", "6 GB RAM"],
+      "storage_options": ["15 GB available space", "25 GB available space", "35 GB available space", "40 GB available space"],
+      "directx": "DirectX 11"
+    },
+    {
+      "id": "mid-2010s",
+      "os_options": ["Windows 7 64-bit", "Windows 8.1 64-bit", "Windows 10 64-bit"],
+      "cpu_options": ["Intel Core i5-4460 or AMD FX-8350", "Intel Core i5-4590 or AMD Ryzen 3 1200"],
+      "gpu_options": ["NVIDIA GeForce GTX 760 or AMD Radeon R9 270X with 2 GB VRAM", "NVIDIA GeForce GTX 970 or AMD Radeon R9 290"],
+      "ram_options": ["8 GB RAM", "12 GB RAM"],
+      "storage_options": ["30 GB available space", "45 GB available space", "55 GB available space", "70 GB available space"],
+      "directx": "DirectX 11"
+    },
+    {
+      "id": "late-2010s",
+      "os_options": ["Windows 10 64-bit"],
+      "cpu_options": ["Intel Core i5-8400 or AMD Ryzen 5 1600", "Intel Core i5-9600K or AMD Ryzen 5 2600"],
+      "gpu_options": ["NVIDIA GeForce GTX 1060 6 GB or AMD Radeon RX 580 8 GB", "NVIDIA GeForce GTX 1650 Super or AMD Radeon RX 5500 XT"],
+      "ram_options": ["8 GB RAM", "12 GB RAM", "16 GB RAM"],
+      "storage_options": ["50 GB available space", "70 GB available space", "85 GB available space", "100 GB available space"],
+      "directx": "DirectX 12"
+    },
+    {
+      "id": "current",
+      "os_options": ["Windows 10 64-bit", "Windows 11 64-bit"],
+      "cpu_options": ["Intel Core i5-10400F or AMD Ryzen 5 3600", "Intel Core i5-11400 or AMD Ryzen 5 3600X"],
+      "gpu_options": ["NVIDIA GeForce GTX 1660 Super or AMD Radeon RX 5600 XT", "NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700"],
+      "ram_options": ["12 GB RAM", "16 GB RAM"],
+      "storage_options": ["60 GB available space", "80 GB available space", "100 GB available space", "120 GB available space"],
+      "directx": "DirectX 12"
+    },
+    {
+      "id": "current-demanding",
+      "os_options": ["Windows 10 64-bit", "Windows 11 64-bit"],
+      "cpu_options": ["Intel Core i5-12400F or AMD Ryzen 5 5600", "Intel Core i5-12600K or AMD Ryzen 5 5600X"],
+      "gpu_options": ["NVIDIA GeForce RTX 3060 or AMD Radeon RX 6600 XT", "NVIDIA GeForce RTX 3060 Ti or AMD Radeon RX 6700 XT"],
+      "ram_options": ["16 GB RAM"],
+      "storage_options": ["90 GB available space", "110 GB available space", "130 GB available space", "150 GB available space"],
+      "directx": "DirectX 12"
+    }
+  ],
+  "official_games": {
+    "stardew-valley": {
+      "os": "Windows Vista or greater",
+      "cpu": "2 GHz processor",
+      "gpu": "256 MB video memory with Shader Model 3.0+",
+      "ram": "2 GB RAM",
+      "storage": "500 MB available space",
+      "directx": "DirectX 10",
+      "architecture": "32-bit or 64-bit processor and operating system",
+      "network": null,
+      "sound_card": null,
+      "additional_notes": null,
+      "source_url": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+    },
+    "counter-strike-2": {
+      "os": "Windows 10",
+      "cpu": "4 hardware CPU threads — Intel Core i5-750 or higher",
+      "gpu": "DirectX 11-compatible GPU with at least 1 GB VRAM and Shader Model 5.0",
+      "ram": "8 GB RAM",
+      "storage": "85 GB available space",
+      "directx": "DirectX 11",
+      "architecture": "64-bit processor and operating system",
+      "network": "Broadband Internet connection",
+      "sound_card": null,
+      "additional_notes": null,
+      "source_url": "https://store.steampowered.com/app/730/CounterStrike_2/"
+    },
+    "the-witcher-3-wild-hunt": {
+      "os": "64-bit Windows 7 or Windows 8.1",
+      "cpu": "Intel Core i5-2500K 3.3 GHz or AMD A10-5800K 3.8 GHz",
+      "gpu": "NVIDIA GeForce GTX 660 or AMD Radeon HD 7870",
+      "ram": "6 GB RAM",
+      "storage": "50 GB available space",
+      "directx": "DirectX 11",
+      "architecture": "64-bit processor and operating system",
+      "network": null,
+      "sound_card": null,
+      "additional_notes": null,
+      "source_url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+    },
+    "cyberpunk-2077": {
+      "os": "64-bit Windows 10",
+      "cpu": "Intel Core i7-6700 or AMD Ryzen 5 1600",
+      "gpu": "NVIDIA GeForce GTX 1060 6 GB, AMD Radeon RX 580 8 GB, or Intel Arc A380",
+      "ram": "12 GB RAM",
+      "storage": "70 GB available space",
+      "directx": "DirectX 12",
+      "architecture": "64-bit processor and operating system",
+      "network": null,
+      "sound_card": null,
+      "additional_notes": "SSD required.",
+      "source_url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+    },
+    "elden-ring": {
+      "os": "Windows 10",
+      "cpu": "Intel Core i5-8400 or AMD Ryzen 3 3300X",
+      "gpu": "NVIDIA GeForce GTX 1060 3 GB or AMD Radeon RX 580 4 GB",
+      "ram": "12 GB RAM",
+      "storage": "60 GB available space",
+      "directx": "DirectX 12",
+      "architecture": "64-bit processor and operating system",
+      "network": null,
+      "sound_card": "Windows-compatible audio device",
+      "additional_notes": null,
+      "source_url": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
+    },
+    "red-dead-redemption-2": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-2500K or AMD FX-6300",
+      "gpu": "NVIDIA GeForce GTX 770 2 GB or AMD Radeon R9 280 3 GB",
+      "ram": "8 GB RAM",
+      "storage": "150 GB available space",
+      "directx": "DirectX 11",
+      "architecture": "64-bit processor and operating system",
+      "network": "Broadband Internet connection",
+      "sound_card": "DirectX-compatible sound card",
+      "additional_notes": null,
+      "source_url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/"
+    },
+    "baldurs-gate-iii": {
+      "os": "Windows 10 64-bit",
+      "cpu": "Intel Core i5-4690, AMD FX-8350, or Snapdragon X Elite",
+      "gpu": "NVIDIA GeForce GTX 970, AMD Radeon RX 480, Intel Arc A380, or Qualcomm Adreno X1 with 4 GB+ VRAM",
+      "ram": "8 GB RAM",
+      "storage": "150 GB available space",
+      "directx": "DirectX 11",
+      "architecture": "64-bit processor and operating system",
+      "network": null,
+      "sound_card": null,
+      "additional_notes": "SSD required.",
+      "source_url": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/"
+    }
+  }
+}

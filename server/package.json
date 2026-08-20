@@ -1,0 +1,29 @@
+{
+  "name": "game-catalog-api-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node --test --test-concurrency=1",
+    "db:rebuild": "node scripts/build-database.mjs",
+    "data:content": "node scripts/enrich-content.mjs",
+    "data:enhance": "node scripts/enhance-snapshot.mjs",
+    "data:verify": "node scripts/verify-snapshot.mjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "sql.js": "^1.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "supertest": "^7.1.4"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

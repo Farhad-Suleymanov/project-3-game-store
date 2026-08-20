@@ -1,0 +1,281 @@
+{
+  "grand-theft-auto-v": {
+    "card_image": "https://images.ctfassets.net/h1rqp7q66d54/3yVDlCOrJnXMrb0yS4ea0y/d93ed97030eb7c233384e5a551aeaea7/GTAV_Gen9_MFT_Webstore_Hero_3840x2160_DELIV_opt__1_.jpg",
+    "remove_genres": [
+      "racing"
+    ]
+  },
+  "counter-strike-2": {
+    "card_image": "https://prod.assets.earlygamecdn.com/images/CS2banner.png?transform=Banner+Webp"
+  },
+  "rocket-league": {
+    "card_image": "https://xboxwire.thesourcemediaassets.com/sites/2/2020/09/rl_f2p_hero_core_JPG.jpg"
+  },
+  "elden-ring": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/capsule_616x353.jpg?t=1784684281"
+  },
+  "terraria": {
+    "card_image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000001702/dac3a26570b5ca1ddf703bf0add7cc7c527f71a2b56521baf69e20c7a573c610"
+  },
+  "red-dead-redemption-2": {
+    "card_image": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg"
+  },
+  "fortnite": {
+    "card_image": "https://gmedia.playstation.com/is/image/SIEPDC/fortnite-keyart-01-en-30nov23?$facebook$"
+  },
+  "cyberpunk-2077": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077"
+  },
+  "god-of-war--1": {
+    "card_image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2217/LsaRVLF2IU2L1FNtu9d3MKLq.jpg?w=440"
+  },
+  "god-of-war-ragnarok": {
+    "card_image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1117/4uH3OH4dQtHMe2gmdFuth02u.jpg"
+  },
+  "league-of-legends": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSICDH4Eddu4owr1ya-1xX-ANFi8ha67STuDlw-0iRpaC5QBS69LkMAxrw&s=10"
+  },
+  "dota-2": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998"
+  },
+  "assassins-creed-odyssey": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT61falZwlh4kdSnGY96dbmNPmayI6iQNoPlEbGN8rPWtvInMm04hDPAo&s=10"
+  },
+  "portal-2": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk_ByjbVWQnhWAzRtgor7lOEm9uZfHFQ9EjJDzD13WUA&s"
+  },
+  "portal": {
+    "card_image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/store/software/switch/70010000050319/122954ab00a225034fa09c8e5ba29b2f9fc0b371a8d550c34ebeecc2727522c3"
+  },
+  "mass-effect-2": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2362420/capsule_616x353.jpg?t=1777395242"
+  },
+  "disco-elysium": {
+    "card_image": "https://gaming-cdn.com/images/products/5661/orig/disco-elysium-the-final-cut-pc-game-gog-com-cover.jpg?v=1701269736"
+  },
+  "nier-automata": {
+    "card_image": "https://upload.wikimedia.org/wikipedia/en/2/21/Nier_Automata_cover_art.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+  },
+  "mass-effect-3--1": {
+    "card_image": "https://m.media-amazon.com/images/M/MV5BYjliZTdmZWMtN2VkYS00MTFjLTlhN2UtMzZlNzk3ZmIwM2U4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  "marvels-spider-man-remastered": {
+    "card_image": "https://cdn1.epicgames.com/offer/4bc43145bb8245a5b5cc9ea262ffbe0e/EGS_MarvelsSpiderManRemastered_InsomniacGamesNixxesSoftware_S1_2560x1440-73702d11161b29a0b7c40a8b489b1808"
+  },
+  "forza-horizon-5": {
+    "card_image": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2717/0c5df2b67b23263d055f3b78aeb77a6ce4668bb078fced77.jpg"
+  },
+  "motogp-24": {
+    "card_image": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/c_scale,w_400/store/software/switch/70010000074052/6f19488b3ffb3c784c88f6c92680706d27e93b29ad0b87a14218e9bc041285db"
+  },
+  "kayak-vr-mirage": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1683340/capsule_616x353.jpg?t=1750776477"
+  },
+  "factorio": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/capsule_616x353.jpg?t=1763986204"
+  },
+  "star-realms": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/438140/capsule_616x353.jpg?t=1777987522"
+  },
+  "arma-3-contact": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107410/capsule_616x353.jpg?t=1781616621"
+  },
+  "ash-of-gods-the-way": {
+    "card_image": "https://i.ytimg.com/vi/4rOa2hSC-z0/maxresdefault.jpg"
+  },
+  "starquake": {
+    "card_image": "https://i.ytimg.com/vi/xIWAAtNXJ8s/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDgHSTNmwUHEgmfWo4yZbdTbJClmw"
+  },
+  "dave-the-diver-in-the-jungle": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCD2-LFTPYRM_Cs3s52v4NUrzcx3jmgxt1kzGlzwUkmaNGt-aZH6Adn7Q&s=10"
+  },
+  "derelict-star": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3641010/e81f432d8145b3cc9ce2b5261cc52285b8c2a813/header.jpg?t=1780364259"
+  },
+  "gothic-1-remake": {
+    "card_image": "https://gothic.thqnordic.com/_next/image?url=%2Fgame-sites%2Fgothic%2Feditions%2Fstandard-edition.png&w=3840&q=75"
+  },
+  "crimson-desert": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/d76689d0bd0a77b863a64b08760b8dd1c5b50081/capsule_616x353.jpg?t=1781661893"
+  },
+  "gurei": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdb0y8SASMwvbqkrzu-SG1koTKhxgkE2VX442F8t6bog&s"
+  },
+  "gunvolt-chronicles-luminous-avenger-ix-1-plus-2-dual-collection": {
+    "card_image": "https://i.ytimg.com/vi/gvB2DzQ24Q4/maxresdefault.jpg"
+  },
+  "opus-prism-peak": {
+    "card_image": "https://www.metacritic.com/a/img/resize/464b6f16082b609d349eb02ce90e55048c8f1aa1/catalog/provider/7/2/7-1776222633.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  "better-mart-simulator": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3498270/69d45b54ef6b79ee798c1eb7fd64859e74887265/capsule_616x353.jpg?t=1783934002"
+  },
+  "bloodthief": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2533600/capsule_616x353.jpg?t=1786244895"
+  },
+  "burgies-cozy-kitchen": {
+    "card_image": "https://ladiesgamers.com/wp-content/uploads/2025/04/img_1345-1.jpg"
+  },
+  "sektori": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2105620/header.jpg?t=1779080450"
+  },
+  "palia-the-elderwood": {
+    "card_image": "https://i.ytimg.com/vi/3hQMyYoXIxs/maxresdefault.jpg"
+  },
+  "concierge": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3073240/c0e0f128159222eca09f7a364414b2237988d895/capsule_616x353.jpg?t=1772115432"
+  },
+  "digimon-story-time-stranger": {
+    "card_image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70010000110953/7c5bcf1b1cd2d27c72326bd6c6f7f631a7b968d9fbb429c0eed11849c8bc1d"
+  },
+  "puzzling-places-3d-jigsaw-sim": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3530820/543d7c590eb7d23dc45c357a53a43c2bf28105d0/capsule_616x353.jpg?t=1784973933"
+  },
+  "poker-night-at-the-inventory--1": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1pL1VkZFx9VoHwMc80gJFHnVGKsGIRL3jSEQQXGTZHp6xl1wtklTaWmQe&s=10"
+  },
+  "tides-of-tomorrow": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2678080/f08c2daf4aeaa25d443c8a3c40a03261861c7d9c/header.jpg?t=1778158829"
+  },
+  "tamashika": {
+    "card_image": "https://upload.wikimedia.org/wikipedia/en/8/80/Tamashika_steam_cover.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
+  },
+  "aether-and-iron": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836560/0af197312ce9803b6b9ee8e369d7bac7251afe92/capsule_616x353.jpg?t=1786037879"
+  },
+  "esoteric-ebb": {
+    "card_image": "https://gaming-cdn.com/images/products/21949/orig/esoteric-ebb-pc-steam-cover.jpg?v=1773389026"
+  },
+  "007-first-light": {
+    "card_image": "https://cdn.wccftech.com/wp-content/uploads/2026/03/007-First-Light-1456x819.jpg"
+  },
+  "grand-theft-auto-iv": {
+    "card_image": "https://gaming-cdn.com/images/products/354/orig/grand-theft-auto-iv-the-complete-edition-pc-rockstar-cover.jpg?v=1778706000",
+    "remove_genres": [
+      "racing"
+    ]
+  },
+  "grand-theft-auto-san-andreas": {
+    "card_image": "https://gamingbolt.com/wp-content/uploads/2024/08/gta-san-andreas.jpg",
+    "remove_genres": [
+      "racing"
+    ]
+  },
+  "grand-theft-auto-vice-city": {
+    "card_image": "https://www.nme.com/wp-content/uploads/2016/09/2015GrandTheftAuto_ViceCity_Press_200715-1.jpg",
+    "remove_genres": [
+      "racing"
+    ]
+  },
+  "grand-theft-auto-iii": {
+    "card_image": "https://m.media-amazon.com/images/M/MV5BNDMyNTFhN2EtZjhjMy00M2UyLWFjYWMtNzE3YzcxYjE5NWU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "remove_genres": [
+      "racing"
+    ]
+  },
+  "apex-legends": {
+    "card_image": "https://image.api.playstation.com/vulcan/ap/rnd/202607/2821/16041b4bc32b00b6bdf4b737c95c0dccc7a08d88ce64adea.jpg"
+  },
+  "baldurs-gate-iii": {
+    "card_image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg"
+  },
+  "stardew-valley": {
+    "card_image": "https://image.api.playstation.com/vulcan/img/rnd/202102/1922/ajZXwKlWvBPfznci6hSGZoOr.png"
+  },
+  "fallout-4": {
+    "card_image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2502/rB3GRFvdPmaALiGt89ysflQ4.jpg"
+  },
+  "age-of-empires-ii-definitive-edition": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/813780/capsule_616x353.jpg?t=1785432195"
+  },
+  "cuphead": {
+    "card_image": "https://gmedia.playstation.com/is/image/SIEPDC/cuphead-keyart-01-en-15dec21?$native$"
+  },
+  "metal-gear-solid-v-the-phantom-pain": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287700/capsule_616x353.jpg?t=1778872866"
+  },
+  "far-cry-3": {
+    "card_image": "https://www.playstationlifestyle.net/wp-content/uploads/sites/9/2020/07/far-cry-3-classic-edition-e1594413961904.jpg?w=650"
+  },
+  "devil-may-cry-5": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3d4jSI2_1NNnYWsVWRlN3L9IWywTi5-pbH9lftJ-o5rD2Ek9--mlFMYE&s=10"
+  },
+  "half-life-2": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220/bf3e952145c2c17c239c87e69acdc6d9625138a7/capsule_616x353.jpg?t=1745368545"
+  },
+  "supermoves-world-of-parkour": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1959580/8d41e20cf88287ede1d1ae566da6ccc68e04a6b5/header.jpg?t=1751306446"
+  },
+  "outrun-2": {
+    "card_image": "https://m.media-amazon.com/images/M/MV5BNTdkMjEyODYtZTkxMi00NTIxLTgzZjgtZGQ1MjkyMDFkNGQ5XkEyXkFqcGc@._V1_.jpg"
+  },
+  "wipeout-omega-collection": {
+    "card_image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2822/ldW5hn5lR5w9nFUY7CdgEDa6.jpg"
+  },
+  "nascar-racing-2002-season": {
+    "card_image": "https://i.ytimg.com/vi/FALX7FRpaxI/maxresdefault.jpg"
+  },
+  "tt-isle-of-man-ride-on-the-edge-3": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924170/capsule_616x353.jpg?t=1764149285"
+  },
+  "burnhouse-lane": {
+    "card_image": "https://cogconnected.com/wp-content/uploads/2023/06/Burnhouse-Lane.jpg"
+  },
+  "mallow-drops": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/381340/capsule_616x353.jpg?t=1480052170"
+  },
+  "littlebigplanet-game-of-the-year-edition": {
+    "card_image": "https://nathanbrennanwriting.wordpress.com/wp-content/uploads/2020/03/dtrbirjxbmwjymd-800x450-nopad.jpg?w=640"
+  },
+  "little-nemo-and-the-guardians-of-slumberland": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR40rL6mgHecBNNBoo9nwLEZwJd7hEJlc5GSFV-NqY1AQ&s=10"
+  },
+  "regions-of-ruin-runegate--1": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1375750/d8e9440137e70a2724afcecee04b0d18d095f402/header.jpg?t=1782375077"
+  },
+  "mewgenics": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/686060/eedbfb4875ec6e0ffe25c17a02aaa15609e9136c/capsule_616x353.jpg?t=1771573546"
+  },
+  "hytale": {
+    "card_image": "https://img.youtube.com/vi/o77MzDQT1cg/maxresdefault.jpg"
+  },
+  "monster-hunter-stories-3-twisted-reflection": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/de3717096a093d7bf9ab504563621bc17e37ccf4/header.jpg?t=1782425255"
+  },
+  "psyvariar-3": {
+    "card_image": "https://gaming-cdn.com/images/products/21547/orig/psyvariar-3-pc-steam-cover.jpg?v=1768476078"
+  },
+  "everything-is-crab": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/a5fb804268a798d5026a9a9d4c946cccc23b7420/header.jpg?t=1785246149"
+  },
+  "out-of-the-park-baseball-26": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3116890/596cc9cdb714d82ca03b42ae050071e1758065ed/capsule_616x353.jpg?t=1755716302"
+  },
+  "sea-of-stars-throes-of-the-watchmaker": {
+    "card_image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/store/software/switch/70050000054834/4aab804ddd88d69e36280ed2360ccbbcbfe44c37e7417c9b6bb2b0b602f43cb3"
+  },
+  "tails-of-iron-ii-whiskers-of-winter": {
+    "card_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473480/header.jpg?t=1755607971"
+  },
+  "techno-banter": {
+    "card_image": "https://i.ytimg.com/vi/QYynDEuWBm8/maxresdefault.jpg"
+  },
+  "fuga-melodies-of-steel-3": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCczXpACcolD1oMRi_i69O8Epf5cpgT7JPMgWOw-kYYuGIs2ZX5IkjznU&s=10"
+  },
+  "teenage-mutant-ninja-turtles-tactical-takedown": {
+    "card_image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3229100/4d90d3b764a2abd5267cb7b2fc5ccc0de1576ac8/capsule_616x353.jpg?t=1771949136"
+  },
+  "zero-parades-for-dead-spies": {
+    "card_image": "https://hb.imgix.net/d019fffac7b07ffbe1752ca59a435c5f7c740ddc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=921e046ee0b4a0677f71daa94adb516a"
+  },
+  "never-grave-the-witch-and-the-curse": {
+    "card_image": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000091314/f7cf9cc2273cb7e674819bf488a3a5a4a60b2cfa0e9b6664760d4cebdccd6961"
+  },
+  "lego-batman-legacy-of-the-dark-knight": {
+    "card_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QInxZEQxY2wLs95jJfvZ1jZO_NQMu8iM10eDYbsz4Q&s"
+  },
+  "world-of-tanks-heat": {
+    "card_image": "https://wxpcdn-cbprodretail.gcdn.co/dcont/images/HEAT_Key-Art_preview_with-logo_1.original.jpg"
+  }
+}

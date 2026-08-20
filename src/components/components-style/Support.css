@@ -1,0 +1,276 @@
+.supportPage {
+    background-color: #15171c;
+    padding-top: 20px;
+    min-height: 100vh;
+    transition-duration: 0.2s;
+}
+
+.supportPage * {
+    transition-duration: 0.2s;
+    transition-property: box-shadow, color, background-color;
+}
+
+.supportHeader {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #15171c;
+    top: 0;
+    height: 60px;
+    border-bottom: 0.5px solid rgb(59, 59, 59);
+    z-index: 1;
+}
+
+.supportHomeButton {
+    letter-spacing: 2px;
+    font-size: 22px;
+}
+
+.supportHomeButton:hover {
+    color: rgb(177, 175, 175);
+}
+
+.supportHomeButton:hover i {
+    color: rgb(177, 175, 175);
+}
+
+.supportHeaderTitle {
+    font-size: 25px;
+    letter-spacing: 2px;
+    text-align: center;
+    width: 55%;
+}
+
+form {
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+    flex-direction: column;
+    width: 85%;
+    background-color: #1b2838;
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-top: 10vh;
+}
+
+.supportMainRow {
+    display: flex;
+    gap: 30px;
+    width: 100%;
+}
+
+.supportField {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 100%;
+}
+
+.supportField1 {
+    width: 50% !important;
+}
+
+.supportName {
+    height: 50px;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #0e151d;
+    border: 1px solid rgb(74, 73, 73);
+    font-size: 18px;
+    outline: none;
+}
+
+.supportTextArea {
+    min-height: 150px;
+    max-width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #0e151d;
+    border: 1px solid rgb(74, 73, 73);
+    font-size: 18px;
+    outline: none;
+}
+
+.supportSelect {
+    height: 50px;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    background-color: #0e151d;
+    border: 1px solid rgb(74, 73, 73);
+    font-size: 18px;
+    outline: none;
+    appearance: none;
+}
+
+.supportName:focus,
+.supportTextArea:focus,
+.supportSelect:focus {
+    border: 1px solid rgb(156, 154, 154);
+}
+
+.supportSelectDiv {
+    position: relative;
+}
+
+.supportChevron {
+    position: absolute;
+    right: 15px;
+    top: 30%;
+    font-size: 15px;
+}
+
+label {
+    font-size: 20px;
+}
+
+.sendRequest {
+    font-size: 20px;
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    background: linear-gradient(135deg,
+            #5b6c97 7%,
+            #1e3a5f 40%,
+            #0b1f36 65%,
+            #0a1e34 100%);
+    height: 40px;
+    border-radius: 20px;
+}
+.supportFormValid input,
+.supportFormValid textarea,
+.supportFormValid select{
+    border: 1px solid rgb(0, 206, 7) !important;
+}
+.supportFormValid button{
+    background: linear-gradient(
+  90deg,
+  #4ade80 0%,
+  #22c55e 45%,
+  #15803d 100% 
+) !important;
+color: #ffffff;
+}
+/* Light mode */
+
+.supportPageLight {
+    background-color: #f3f4f6;
+}
+
+.supportPageLight .supportHeader {
+    background-color: #f3f4f6;
+    border-bottom: 0.5px solid gray;
+}
+
+.theme i {
+    color: rgb(118, 119, 133) !important;
+}
+
+.supportPageLight i {
+    color: #1F2937;
+}
+
+.supportPageLight .supportHomeButton {
+    color: #1F2937;
+}
+
+.supportPageLight .supportHeaderTitle {
+    color: #1F2937;
+}
+
+.supportPageLight .supportHeaderTitle i {
+    color: #1F2937;
+}
+
+.supportPageLight form {
+    background-color: #ffffff;
+    box-shadow: 1px 1px 10px 1px rgb(209, 208, 208);
+}
+
+.supportPageLight label {
+    color: #1F2937;
+}
+
+.supportPageLight .supportName,
+.supportPageLight .supportTextArea,
+.supportPageLight .supportSelect {
+    background-color: #f8fafc;
+    color: #1f2937;
+    border-color: #cbd5e1;
+    box-shadow: 1px 1px 3px 1px rgb(241, 238, 238);
+}
+
+.supportPageLight .supportName:focus,
+.supportPageLight .supportTextArea:focus,
+.supportPageLight .supportSelect:focus {
+    border: 2px solid #1687cf;
+}
+
+.supportPageLight .sendRequest {
+    background: linear-gradient(90deg,
+            #47bfff 0%,
+            #268fd2 45%,
+            #1769aa 100%);
+}
+
+.supportPageLight .supportHomeButton:hover {
+    color: #177bba;
+}
+
+.supportPageLight .supportHomeButton:hover i {
+    color: #177bba;
+}
+
+@media(max-width: 800px) and (min-width: 600px) {
+    .supportHeaderTitle {
+        font-size: 20px;
+    }
+
+    .supportHomeButton {
+        font-size: 19px;
+    }
+}
+
+@media(max-width:599px) {
+    .supportHeaderTitle {
+        font-size: 18px;
+    }
+
+    .supportHomeButton {
+        font-size: 17px;
+    }
+
+    .supportMainRow {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .supportField1 {
+        width: 100% !important;
+    }
+
+    label {
+        font-size: 18px;
+    }
+
+    .supportName,
+    .supportTextArea {
+       font-size: 14px;
+    }
+    .supportChevron{
+        font-size: 11px;
+        top: 35%;
+    }
+    .supportSelect{
+        font-size: 13px;
+    }
+}
+@media (min-width:1720px){
+    .supportPage *{
+        font-size: 24px;
+    }
+}

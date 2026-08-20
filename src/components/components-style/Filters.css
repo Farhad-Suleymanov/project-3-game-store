@@ -1,0 +1,143 @@
+.filters{
+    display: flex;
+    position: fixed;
+    top: 60px;
+    left: 0;
+    flex-direction: column;
+    width: max-content;
+    align-items: flex-start;
+    padding: 5px 20px;
+    overflow-y: auto;
+    max-height: calc(100vh - 60px);
+    background-color: #15171c;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+.filters::-webkit-scrollbar {
+    display: none;
+}
+.filterBtn{
+    font-size: 20px;
+    letter-spacing: 1px;
+    transition-duration: 0.2s;
+    margin: 20px 0;
+    cursor: default;
+}
+.filterBtnHome{
+    cursor: pointer;
+}
+.filterBtnHome:hover{
+    color: rgb(183, 183, 183);
+    transform: scale(1.1);
+}
+.genres{
+    font-size: 16px;
+    
+}
+.genreDiv{
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+    width: 100%;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.genreIcon{
+    width: 35px;
+    height: 35px;
+    background-color: gray;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition-duration: 0.2s;
+}
+.checked{
+   position: absolute;
+   right: 3%;
+}
+.genreIcon i {
+    color: white;
+    font-size: 17px;
+}
+.genreDiv:hover .genreIcon{
+    background-color: white;
+}
+.genreDiv:hover i{
+    color: gray;
+}
+.active i{
+    color: gray;
+}
+.active .genreIcon{
+    background-color: white;
+}
+/* light theme */
+.filtersLight{
+    background-color: #ffffff;
+}
+
+.filtersLight .filterBtn{
+    color: #111827;
+}
+
+.filtersLight .genres{
+    color: #111827;
+}
+
+.filtersLight .genreIcon{
+    background-color: #e5e7eb;
+}
+
+.filtersLight .genreIcon i{
+    color: #374151;
+}
+
+.filtersLight .genreDiv:hover .genreIcon{
+    background-color: #2563eb;
+}
+
+.filtersLight .genreDiv:hover .genreIcon i{
+    color: white;
+}
+
+.filtersLight .active .genreIcon{
+    background-color: #2563eb;
+}
+
+.filtersLight .active .genreIcon i{
+    color: white;
+}
+
+.filtersLight .checked{
+    color: #2563eb;
+}
+@media (max-width: 800px){
+    .filters{
+        left: -100%;
+        transition-duration: 0.3s;
+    }
+    .filters-open{
+        left: 0;
+    }
+}
+@media (max-width: 700px){
+    .filters{
+        border: 1px solid rgb(198, 198, 198);
+        border-left: none;
+    }
+    .filtersLight{
+        border: 1px solid rgb(180, 179, 179);
+        
+    }
+}
+@media (min-width:1720px){
+    .filters *{
+        font-size: 18px;
+    }
+    .filterBtn{
+        font-size: 24px;
+    }
+}

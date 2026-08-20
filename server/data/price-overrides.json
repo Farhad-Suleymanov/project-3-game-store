@@ -1,0 +1,349 @@
+{
+  "currency": "USD",
+  "snapshot_date": "2026-08-12",
+  "minimum": 0,
+  "maximum": 80,
+  "basis": "Static US storefront reference anchors. Free-to-play values remain exact; paid API prices use varied catalog endings while preserving these references in separate fields.",
+  "games": {
+    "grand-theft-auto-v": {
+      "price": 29.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/271590/"
+    },
+    "counter-strike-2": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/730/"
+    },
+    "red-dead-redemption-2": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1174180/"
+    },
+    "the-witcher-3-wild-hunt": {
+      "price": 39.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/292030/"
+    },
+    "minecraft--1": {
+      "price": 29.99,
+      "source": "Official PC storefront",
+      "url": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc"
+    },
+    "fortnite": {
+      "price": 0,
+      "source": "Epic Games Store",
+      "url": "https://store.epicgames.com/en-US/p/fortnite"
+    },
+    "elden-ring": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1245620/"
+    },
+    "cyberpunk-2077": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1091500/"
+    },
+    "god-of-war--1": {
+      "price": 49.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1593500/"
+    },
+    "baldurs-gate-iii": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1086940/"
+    },
+    "call-of-duty-modern-warfare-2": {
+      "price": 19.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/10180/"
+    },
+    "valorant": {
+      "price": 0,
+      "source": "Official PC storefront",
+      "url": "https://playvalorant.com/"
+    },
+    "league-of-legends": {
+      "price": 0,
+      "source": "Official PC storefront",
+      "url": "https://www.leagueoflegends.com/"
+    },
+    "dota-2": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/570/"
+    },
+    "apex-legends": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1172470/"
+    },
+    "pubg-battlegrounds": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/578080/"
+    },
+    "the-elder-scrolls-v-skyrim": {
+      "price": 39.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/489830/"
+    },
+    "the-last-of-us": {
+      "price": 59.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/1888930/"
+    },
+    "the-last-of-us-part-ii": {
+      "price": 49.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/2531310/"
+    },
+    "hogwarts-legacy": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/990080/"
+    },
+    "forza-horizon-5": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1551360/"
+    },
+    "assassins-creed-iv-black-flag": {
+      "price": 39.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/242050/"
+    },
+    "assassins-creed-odyssey": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/812140/"
+    },
+    "resident-evil-4": {
+      "price": 19.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/254700/"
+    },
+    "resident-evil-2--1": {
+      "price": 39.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/883710/"
+    },
+    "doom-eternal": {
+      "price": 39.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/782330/"
+    },
+    "dark-souls-iii": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/374320/"
+    },
+    "sekiro-shadows-die-twice": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/814380/"
+    },
+    "red-dead-redemption--2": {
+      "price": 49.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/2668510/"
+    },
+    "grand-theft-auto-iv": {
+      "price": 19.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/12210/"
+    },
+    "portal-2": {
+      "price": 9.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/620/"
+    },
+    "half-life-2": {
+      "price": 9.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/220/"
+    },
+    "marvels-spider-man": {
+      "price": 59.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/1817070/"
+    },
+    "ghost-of-tsushima": {
+      "price": 59.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/2215430/"
+    },
+    "god-of-war-ragnarok": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/2322010/"
+    },
+    "rocket-league": {
+      "price": 0,
+      "source": "Epic Games Store",
+      "url": "https://store.epicgames.com/en-US/p/rocket-league"
+    },
+    "terraria": {
+      "price": 9.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/105600/"
+    },
+    "stardew-valley": {
+      "price": 14.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/413150/"
+    },
+    "the-sims-4": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1222670/"
+    },
+    "forza-horizon-4": {
+      "price": 59.99,
+      "source": "Steam delisted-price reference",
+      "url": "https://store.steampowered.com/app/1293830/"
+    },
+    "hollow-knight": {
+      "price": 14.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/367520/"
+    },
+    "bloodborne": {
+      "price": 19.99,
+      "source": "Estimated storefront tier",
+      "url": null
+    },
+    "mass-effect-2": {
+      "price": 19.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/24980/"
+    },
+    "fallout-4": {
+      "price": 19.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/377160/"
+    },
+    "destiny-2": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1085660/"
+    },
+    "sea-of-thieves": {
+      "price": 39.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1172620/"
+    },
+    "warframe": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/230410/"
+    },
+    "resident-evil-village": {
+      "price": 39.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1196590/"
+    },
+    "doom--4": {
+      "price": 9.99,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/2280/"
+    },
+    "diablo-iv": {
+      "price": 49.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/2344520/"
+    },
+    "mortal-kombat-11": {
+      "price": 49.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/976310/"
+    },
+    "dead-by-daylight": {
+      "price": 19.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/381210/"
+    },
+    "among-us": {
+      "price": 4.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/945360/"
+    },
+    "no-man-s-sky": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/275850/"
+    },
+    "hades--1": {
+      "price": 24.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1145360/"
+    },
+    "persona-5-royal": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1687950/"
+    },
+    "the-witcher-2-assassins-of-kings": {
+      "price": 19.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/20920/"
+    },
+    "assassins-creed-origins": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/582160/"
+    },
+    "assassins-creed-valhalla": {
+      "price": 59.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/2208920/"
+    },
+    "portal": {
+      "price": 9.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/400/"
+    },
+    "left-4-dead-2": {
+      "price": 9.99,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/550/"
+    },
+    "team-fortress-2": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/440/"
+    },
+    "path-of-exile": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/238960/"
+    },
+    "path-of-exile-the-fall-of-oriath": {
+      "price": 0,
+      "source": "Steam edition reference",
+      "url": "https://store.steampowered.com/app/238960/"
+    },
+    "halo-infinite": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/1240440/"
+    },
+    "starcraft-ii-wings-of-liberty": {
+      "price": 0,
+      "source": "Official PC storefront",
+      "url": "https://starcraft2.blizzard.com/"
+    },
+    "mechwarrior-online": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/342200/"
+    },
+    "anarchy-online": {
+      "price": 0,
+      "source": "Steam",
+      "url": "https://store.steampowered.com/app/396280/"
+    }
+  }
+}
