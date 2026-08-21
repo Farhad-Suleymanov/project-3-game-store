@@ -1,4 +1,4 @@
-header{
+header {
     width: 100%;
     position: fixed;
     display: flex;
@@ -11,11 +11,11 @@ header{
     background-color: #15171c;
 }
 
-.home{
+.home {
     letter-spacing: 2px;
 }
 
-.circle{
+.circle {
     display: none;
     width: 40px;
     height: 40px;
@@ -25,17 +25,18 @@ header{
     transition-duration: 0.2s;
     align-items: center;
 }
-.circle i{
+
+.circle i {
     font-size: 17px;
 }
 
-.search-box{
+.search-box {
     width: 60%;
     height: 45px;
     position: relative;
 }
 
-.search{
+.search {
     width: 100%;
     height: 100%;
     font-size: 18px;
@@ -45,22 +46,22 @@ header{
     padding: 0 50px;
 }
 
-.lupa{
+.lupa {
     color: darkgray;
     position: absolute;
     top: 50%;
-    transform: translate(15px,-50%);
+    transform: translate(15px, -50%);
 }
 
-.search::placeholder{
+.search::placeholder {
     color: darkgray;
 }
 
-.search:focus{
+.search:focus {
     outline: 1px solid white;
 }
 
-.favorites{
+.favorites {
     display: flex;
     gap: 5px;
     position: relative;
@@ -68,11 +69,11 @@ header{
     transition-duration: color 0.2s;
 }
 
-.favorites-text{
+.favorites-text {
     letter-spacing: 2px;
 }
 
-.header-right{
+.header-right {
     display: flex;
     gap: 20px;
     width: max-content;
@@ -93,162 +94,205 @@ header{
     transform-origin: top;
     transition: transform .2s;
     overflow-y: auto;
-    max-height: 460px; 
+    max-height: 460px;
     border-radius: 10px;
 }
-.favoriteImg{
+
+.favoriteImg {
     width: 105px;
     height: 60px;
     border-radius: 10px;
     border: 1px solid black;
 }
-.favoriteDiv{
+
+.favoriteDiv {
     display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 10px;
 }
-.favoriteLeft{
+
+.favoriteLeft {
     display: flex;
     align-items: center;
     gap: 10px;
     width: max-content;
 }
-.favoriteGameName{
+
+.favoriteGameName {
     width: 190px;
 }
-.favorites-list-visible{
+
+.favorites-list-visible {
     transform: scaleY(1);
 }
-.favoritePrice{
+
+.favoritePrice {
     color: rgb(0, 189, 0);
 }
-.theme{
+
+.theme {
     font-size: 20px;
 }
-.fa-moon{
+
+.fa-moon {
     transform: rotate(20deg);
     color: gray;
 }
-header a{
+
+header a {
     transition-duration: 0.2s;
 }
-header a:hover{
+
+header a:hover {
     color: rgb(183, 183, 183);
 }
-.favoriteTextChev:hover i{
+
+.favoriteTextChev:hover i {
     color: rgb(183, 183, 183);
 }
 
 /* light theme */
 
 
-.lightHeader{
+.lightHeader {
     background: #FFFFFF;
-    box-shadow: 0 2px 12px rgba(0,0,0,.08);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, .08);
 }
 
-.lightHeader a{
-    color:#1F2937;
+.lightHeader a {
+    color: #1F2937;
 }
 
-.lightHeader .search{
-    background:#E9EEF5;
-    color:#1F2937;
+.lightHeader .search {
+    background: #E9EEF5;
+    color: #1F2937;
 }
 
-.lightHeader .search::placeholder{
-    color:#6B7280;
+.lightHeader .search::placeholder {
+    color: #6B7280;
 }
 
-.lightHeader .search:focus{
-    outline:2px solid #2563EB;
+.lightHeader .search:focus {
+    outline: 2px solid #2563EB;
 }
 
-.lightHeader .lupa{
-    color:#6B7280;
+.lightHeader .lupa {
+    color: #6B7280;
 }
 
-.lightHeader .favorites-list{
-    background:#FFFFFF;
-    box-shadow:2px 2px 20px 10px rgba(0,0,0,.15);
+.lightHeader .favorites-list {
+    background: #FFFFFF;
+    box-shadow: 2px 2px 20px 10px rgba(0, 0, 0, .15);
 }
 
-.lightHeader .favoriteGameName{
-    color:#1F2937;
+.lightHeader .favoriteGameName {
+    color: #1F2937;
 }
 
-.lightHeader .theme{
-    color:#111;
+.lightHeader .theme {
+    color: #111;
 }
 
-.lightHeader .favorites i{
-    color:#1F2937;
+.lightHeader .favorites i {
+    color: #1F2937;
 }
-.lightHeader a:hover{
+
+.lightHeader a:hover {
     color: rgb(118, 119, 133);
 }
-.lightHeader .favoriteTextChev:hover i{
+
+.lightHeader .favoriteTextChev:hover i {
     color: rgb(118, 119, 133);
 }
 
-.lightHeader .circle{
-    background:#2563EB;
+.lightHeader .circle {
+    background: #2563EB;
 }
 
-.lightHeader .circle i{
-    color:white;
+.lightHeader .circle i {
+    color: white;
 }
-.lightHeader .removeFavorite{
+
+.lightHeader .removeFavorite {
     color: black;
 }
-@media (max-width:400px){
-    header a{
+
+@media (max-width:436px) {
+    header a {
         font-size: 14px;
     }
+
+    .circle {
+        width: 33px;
+        height: 33px;
+    }
+
+    .circle i {
+        font-size: 15px;
+    }
+
+    .header-right {
+        display: flex;
+        gap: 10px;
+        width: max-content;
+        align-items: center;
+    }
 }
+
 @media (max-width: 800px) {
-    .home{
+    .home {
         display: none;
     }
-    .circle{
+
+    .circle {
         display: flex;
     }
-    .search-box{
+
+    .search-box {
         width: 40%;
     }
-    .filterClicked{
+
+    .filterClicked {
         color: gray;
         transform: rotate(180deg);
     }
-    .circle-left{
+
+    .circle-left {
         background-color: white;
     }
 }
+
 @media (max-width: 500px) {
-    a{
-        font-size: 15px;
+    a {
+        font-size: 14px;
     }
-    header i{
-        font-size: 15px;
+
+    header i {
+        font-size: 14px;
     }
-    .search-box{
-        width: 28%;
+
+    .search-box {
+        width: 40%;
         height: 40px;
     }
-    .favoriteImg{
+
+    .favoriteImg {
         width: 85px;
     }
-    .favorites-list{
+
+    .favorites-list {
         right: -40px;
     }
-    .favoriteGameName{
+
+    .favoriteGameName {
         width: 140px;
         font-size: 15px;
     }
 }
-@media (min-width:1720px){
-    header *{
+
+@media (min-width:1720px) {
+    header * {
         font-size: 18px;
     }
 }
