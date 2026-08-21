@@ -368,6 +368,17 @@ time,
     background-color: #22c55e;
     box-shadow: 0 8px 20px rgba(34, 197, 94, 0.25);
 }
+@media (min-width:2020px){
+    .gameInfoContent *,.gameInfoContent strong, .gameInfoContent h2{
+        font-size: 30px !important;
+    }
+    .gameInfoContent li{
+        font-size: 24px !important;
+    }
+    .gameInfoPrice{
+        font-size: 24px !important;
+    }
+}
 @media (min-width:1720px){
     .gameInfoText{
         min-height: 81.5vh;

@@ -21,7 +21,7 @@ function App() {
   const [theme, setTheme] = useState(false);
 
   useEffect(() => {
-    document.body.style.backgroundColor = theme ? "#f5f7fb" : "#17191f";
+    document.body.style.backgroundColor = theme ? "#f5f7fb" : "#13151a";
   }, [theme]);
 
   return (

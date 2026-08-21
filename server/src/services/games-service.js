@@ -104,7 +104,7 @@ function filterParts(query) {
 
   const search = normalizeSearch(singleQueryValue(query.search, "search") ?? "");
   for (const token of search.split(/\s+/).filter(Boolean)) {
-    clauses.push("g.search_text LIKE ?");
+    clauses.push("g.name LIKE ? COLLATE NOCASE");
     parameters.push(`%${token}%`);
   }
 
