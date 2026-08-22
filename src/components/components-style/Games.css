@@ -129,10 +129,10 @@
 }
 
 .load {
-    position: absolute;
+    position: relative;
     left: 50%;
     transform: translateX(-50%);
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     width: 200px;
     height: 50px;
     font-size: 20px;
@@ -182,16 +182,19 @@
     padding: 0px 15px;
     appearance: none;
 }
-.gameSort{
+
+.gameSort {
     position: relative;
     width: max-content;
 }
-.gameChevron{
+
+.gameChevron {
     position: absolute;
     left: 80%;
     top: 14px;
     font-size: 12px;
 }
+
 /* light theme */
 
 
@@ -200,6 +203,11 @@
 }
 
 .gamesLight select {
+    background: #ffffff;
+    color: #1f2937;
+}
+
+.gamesLight option {
     background: #ffffff;
     color: #1f2937;
 }
@@ -265,9 +273,11 @@
     text-shadow: 0.5px 0.5px 0px black;
     border-width: 2px;
 }
-.gamesLight .gameChevron{
+
+.gamesLight .gameChevron {
     color: #3b485b;
 }
+
 @media (max-width: 800px) {
     .marginDel {
         margin-left: 0 !important;

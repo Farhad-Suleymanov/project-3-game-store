@@ -141,20 +141,21 @@ label {
     height: 40px;
     border-radius: 20px;
 }
+
 .supportFormValid input,
 .supportFormValid textarea,
-.supportFormValid select{
+.supportFormValid select {
     border: 1px solid rgb(0, 206, 7) !important;
 }
-.supportFormValid button{
-    background: linear-gradient(
-  90deg,
-  #4ade80 0%,
-  #22c55e 45%,
-  #15803d 100% 
-) !important;
-color: #ffffff;
+
+.supportFormValid button {
+    background: linear-gradient(90deg,
+            #4ade80 0%,
+            #22c55e 45%,
+            #15803d 100%) !important;
+    color: #ffffff;
 }
+
 /* Light mode */
 
 .supportPageLight {
@@ -202,6 +203,11 @@ color: #ffffff;
     color: #1f2937;
     border-color: #cbd5e1;
     box-shadow: 1px 1px 3px 1px rgb(241, 238, 238);
+}
+
+.supportPageLight .supportSelect option {
+    background-color: #f8fafc;
+    color: #1f2937;
 }
 
 .supportPageLight .supportName:focus,
@@ -259,18 +265,21 @@ color: #ffffff;
 
     .supportName,
     .supportTextArea {
-       font-size: 14px;
+        font-size: 14px;
     }
-    .supportChevron{
+
+    .supportChevron {
         font-size: 11px;
         top: 35%;
     }
-    .supportSelect{
+
+    .supportSelect {
         font-size: 13px;
     }
 }
-@media (min-width:1720px){
-    .supportPage *{
+
+@media (min-width:1720px) {
+    .supportPage * {
         font-size: 24px;
     }
 }
